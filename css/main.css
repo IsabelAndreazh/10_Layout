@@ -1,0 +1,68 @@
+.span{
+	position: relative;
+	display: inline-block;
+	color:white;
+	left:40px;
+	top:210px;
+
+}
+#redondo{
+	border-radius: 100%;
+}
+.habilidades{
+	background-color: grey;
+	color: white;
+	padding: 10px;
+	height: 40px;
+	margin: 10px 0px 10px 30px;
+}
+#html{
+	width: 500px;
+}
+#css{
+	width: 350px;
+}
+#js{
+	width: 250px;
+}
+.im{
+	width: 300px;
+	height: 200px;
+	margin: 30px;
+}
+.border{
+	border: black solid 2px;
+	padding: 30px;
+	margin: 70px;
+}
+p{
+	margin: 5px 100px 5px 100px;
+	font-size: 30px;
+}
+.b{
+	margin:0px;
+}
+#logo{
+	margin:10px;
+}
+.linea{
+	border-right: black solid 2px;
+}
+hr{
+	border:black solid 1px;
+	margin: 5px;
+}
+.margen{
+	margin-left:-25px; 
+}
+.lineachica{
+	border:black solid 1px;
+	margin-left: 300px;
+}
+.iconos{
+	width: 37px;
+	height: 37px;
+}
+*{
+	font-family: 'Lobster', cursive;
+}
